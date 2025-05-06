@@ -1,0 +1,12 @@
+AdvancedOptions: false
+RuntimeType: Container
+DockerFilePath: Dockerfile
+ServiceType: private
+ArtifactSourceType: Dockerfile
+ServiceBuildRegion: ap-southeast-1
+RepoName: JJGGu/KrillinAI
+RegionId: cn-hangzhou
+CustomParameters: ''
+Owner: JJGGu
+Branch: master
+Platform: github
